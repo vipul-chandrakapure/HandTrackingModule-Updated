@@ -5,6 +5,6 @@ Below is the code ... Enjoy it👍
 
 Intellij was only used.
 
-before copying and pasting the code, make sure you have successfully installed libraries mentioned below
+before copying and pasting the code, make sure you have successfully installed libraries mentioned below : 
 ➡️ opencv-python
 ➡️ mediapipe
